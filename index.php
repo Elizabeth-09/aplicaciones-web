@@ -17,6 +17,16 @@
 
 </head>
 <body>
-    
+    <div class="container.fivid">
+        <div class="row">
+            <div class="col-md-6">
+                <div class="contenlogin">
+                    <div class="login">
+                    <h3>Bienvenidos/as</h3>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
 </body>
 </html>
